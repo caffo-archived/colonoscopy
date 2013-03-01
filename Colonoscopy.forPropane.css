@@ -24,7 +24,7 @@ table.chat tr.kick_message td {
   background-color: #161A1C !important;
 }
 table.chat tr.you td {
-  color: #4800b2 !important;
+  color: #B8A187 !important;
   background-color: #161A1C ! important;
 }
 td.person {
@@ -113,9 +113,9 @@ tr.propane_search td { background-color: #ffd8d8 ! important; }
 tr.propane_current_search td { background-color: #ff9090 ! important; }
 div#open_bar { display: none ! important; }
 tr.propane_alert_match:not(.propane_search) td.body { 
-  background-color: #272300 ! important; 
-  border-top: 1px solid #828100 ! important;
-  border-bottom: 1px solid #828100 ! important;
+  background-color: #212527 ! important; 
+  border-top: 1px solid #213036 ! important;
+  border-bottom: 1px solid #213036 ! important;
 }
 form#search_form { display: none ! important; }
 
