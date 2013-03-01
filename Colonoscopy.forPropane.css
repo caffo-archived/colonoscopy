@@ -122,3 +122,8 @@ form#search_form { display: none ! important; }
 tr.propane_hidden_enterleave { display: none ! important; }
 
 div#upload_form, input[type="file"] { display:none ! important; }
+
+code, pre {
+  font-size: 14px ! important;
+  color: #B8ADA1 ! important;
+}
