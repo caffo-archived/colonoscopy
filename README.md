@@ -13,7 +13,7 @@ It's available for:
 * Propane
 
 ## Rubymine
-To install a it, download the xml file,  copy to ~/Library/Preferences/RubyMine40/colors/ (Mac OS X) or C:\Users\%username%.RubyMine40\config\colors\ (Windows) and restart RubyMine. Then go to IDE Settings | Editor | Colors and select 'Colonoscopy'.
+To install a it, download the xml file, copy to ~/Library/Preferences/RubyMine40/colors/ (Mac OS X) or C:\Users\%username%.RubyMine40\config\colors\ (Windows) and restart RubyMine. Then go to IDE Settings | Editor | Colors and select 'Colonoscopy'.
 
 ![Colonoscopy screenshot](http://caffo.baconfile.com.s3.amazonaws.com/colonoscopy.png)
 
@@ -21,6 +21,9 @@ To install a it, download the xml file,  copy to ~/Library/Preferences/RubyMine4
 
 Download the css file, rename it to cf_chat.css and copy to ~/Library/Application\ Support/Propane/styles
 
+## Caveats
+
+* Most of these themes uses the PragmataPro font. Make sure you have it or change the font before applying the theme.
 
 ## License
 
