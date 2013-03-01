@@ -25,7 +25,8 @@ Download the css file, rename it to cf_chat.css and copy to ~/Library/Applicatio
 
 ## Caveats
 
-* Most of these themes uses the PragmataPro font. Make sure you have it or change the font before applying the theme.
+* Most of these themes uses the [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) typeface. Make sure you have it or change the font before applying the theme.
+* You don't like the typeface. I know.
 * You don't like the theme. I know.
 * You don't like the theme name. I know.
 
