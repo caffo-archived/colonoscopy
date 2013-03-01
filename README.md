@@ -16,6 +16,11 @@ To install a it, download the xml file,  copy to ~/Library/Preferences/RubyMine4
 
 ![Colonoscopy screenshot](http://caffo.baconfile.com.s3.amazonaws.com/colonoscopy.png)
 
+## Propane
+
+Download the css file, rename it to cf_chat.css and copy to ~/Library/Application\ Support/Propane/styles
+
+
 ## License
 
 MIT License. Copyright 2013 Rodrigo Franco
