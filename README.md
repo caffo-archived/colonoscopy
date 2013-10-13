@@ -26,6 +26,12 @@ Download the css file, rename it to cf_chat.css and copy to ~/Library/Applicatio
 ![Colonoscopy for Propane screenshot]
 (http://dl.dropbox.com/u/8178/misc/Screen%20Shot%202013-03-01%20at%206.38.04%20PM.png)
 
+
+## Inverted Colonoscopy
+There's also an inverted version of Colonoscopy. Screenshot shows the sublime 3 and iterm colorschemes
+![InvertedColonoscopy screenshots](http://dl.dropboxusercontent.com/u/8178/Screenshots/s18sguop7wj9.png)
+
+
 ## Caveats
 
 * Most of these themes uses the [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) typeface. Make sure you have it or change the font before applying the theme.
