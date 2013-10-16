@@ -31,6 +31,9 @@ Download the css file, rename it to cf_chat.css and copy to ~/Library/Applicatio
 There's also an inverted version of Colonoscopy. Screenshot shows the sublime 3 and iterm colorschemes
 ![InvertedColonoscopy screenshots](http://dl.dropboxusercontent.com/u/8178/Screenshots/s18sguop7wj9.png)
 
+## White version
+Sublime only
+![WhiteColonscopy screenshot](http://dl.dropbox.com/u/8178/Screenshots/95zxyb1ekfl5.png)
 
 ## Caveats
 
