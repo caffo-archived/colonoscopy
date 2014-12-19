@@ -42,6 +42,10 @@ Sublime only
 * You don't like the theme. I know.
 * You don't like the theme name. I know.
 
+## Notable reactions
+
+* 'This theme makes me want to rip my eyes out.'
+* 'Unpleasant but necessary, like the procedure that inspires it.'
 ## License
 
 MIT License. Copyright 2013 Rodrigo Franco
