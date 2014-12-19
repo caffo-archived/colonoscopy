@@ -46,6 +46,7 @@ Sublime only
 
 * 'This theme makes me want to rip my eyes out.'
 * 'Unpleasant but necessary, like the procedure that inspires it.'
+
 ## License
 
 MIT License. Copyright 2013 Rodrigo Franco
